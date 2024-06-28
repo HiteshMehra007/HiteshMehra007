@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @HiteshMehra007<br>- 👀 I’m interested in AI/ML<br>- 🌱 I’m currently learning Web Development<br>- 💞️ I’m looking to collaborate on Open Source<br>- 📫 How to reach me --> hiteshmehra809@gmail.com
+- 👋 Hi, I’m Hitesh Mehra<br>- 👀 I’m interested in AI/ML<br>- 🌱 I’m currently learning Web Development<br>- 💞️ I’m looking to collaborate on Open Source<br>- 📫 How to reach me --> hiteshmehra809@gmail.com
 
 
 ## 🌐 Socials:
